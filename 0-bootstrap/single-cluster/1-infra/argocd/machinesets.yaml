@@ -35,8 +35,8 @@ spec:
             datastore: ${VS_DATASTORE} 
             cluster: ${VS_CLUSTER} 
             server: ${VS_SERVER} 
-  syncPolicy:
-    automated:
-      prune: true
-      selfHeal: true
+  syncPolicy: {}
+    #automated:
+      #prune: true
+      #selfHeal: true
 
