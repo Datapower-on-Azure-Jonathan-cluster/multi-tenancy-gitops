@@ -5,7 +5,7 @@ resources:
 #- argocd/ace/prod.yaml
 
 #- argocd/dp/cicd.yaml
-# - argocd/dp/dev.yaml
+- argocd/dp/dev.yaml
 #- argocd/dp/stage.yaml
 #- argocd/dp/prod.yaml
 
