@@ -4,6 +4,11 @@ resources:
 #- argocd/ace/stage.yaml
 #- argocd/ace/prod.yaml
 
+#- argocd/dp/cicd.yaml
+# - argocd/dp/dev.yaml
+#- argocd/dp/stage.yaml
+#- argocd/dp/prod.yaml
+
 #- argocd/mq/cicd.yaml
 #- argocd/mq/dev.yaml
 #- argocd/mq/stage.yaml
